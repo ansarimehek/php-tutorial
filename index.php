@@ -6,6 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello<h1>
+    <h1>hello <h1>
+
+    <?php
+    $username="mehek";
+    echo $username;
+
+    
+    ?>
+
 </body>
 </html>
